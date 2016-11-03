@@ -23,3 +23,5 @@
 6.RESTFul风格API配置
 
 ##当前已经完成
+1.mongodb数据库插件安装
+2.permissions验证与权限插件安装
