@@ -1,17 +1,25 @@
 # SailsJsServer
 
-a [Sails](http://sailsjs.org) application
+ [Sails](http://sailsjs.org) 服务端配置
+ 
+##整合第三方库以及常用库
+
+1.[sails-mongo](https://github.com/balderdashy/sails-mongo)
+
+2.[sails-permissions](https://github.com/tjwebb/sails-permissions)
 
 ##功能计划包含
 
-*数据库链接配置
+1.数据库链接配置
 
-*应用配置
+2.应用配置
 
-*验证与授权功能
+3.验证与授权功能
 
-*动态数据库功能
+4.动态数据库功能
 
-*后端web界面
+5.后端web界面
 
-*RESTFul风格API配置
+6.RESTFul风格API配置
+
+##当前已经完成
